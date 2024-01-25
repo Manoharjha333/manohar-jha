@@ -1,4 +1,4 @@
-# Manohar Jha Data Scientist: From Bihar to Delhi
+# Manohar Jha: Journey of a Data Scientist from Bihar to Delh
 In the vibrant tapestry of my journey, I, [Manohar Jha](https://www.linkedin.com/in/manohar-jha/), find myself weaving threads of knowledge, passion, and ambition. Hailing from the culturally rich state of Bihar, my roots run deep, but my current abode is in the heart of Paharganj. Having completed my B.A in Economics, I embarked on a new academic adventure, now pursuing an MCA from the prestigious Mysore University. This narrative takes a closer look at my transition from the realms of digital marketing to the captivating realm of data science.
 
 # Academic Pursuits:
