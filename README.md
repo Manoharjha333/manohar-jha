@@ -3,7 +3,7 @@ In the vibrant tapestry of my journey, I, [Manohar Jha](https://www.linkedin.com
 
 # Academic Pursuits:
 
-My academic journey has been a mosaic of experiences, each piece contributing to the person I am today. Armed with a degree in Economics, I recognized the evolving landscape of technology and decided to delve deeper. Currently enrolled in Mysore University for an MCA, I am honing my skills in the realm of computer applications, eager to leverage technology to its fullest potential.
+My [academic journey](http://www.atmoin.com/mj) has been a mosaic of experiences, each piece contributing to the person I am today. Armed with a degree in Economics, I recognized the evolving landscape of technology and decided to delve deeper. Currently enrolled in Mysore University for an MCA, I am honing my skills in the realm of computer applications, eager to leverage technology to its fullest potential.
 
 # The Data Science Quest:
 
