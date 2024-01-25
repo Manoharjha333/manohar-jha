@@ -20,6 +20,7 @@ As I stand at the crossroads of past experiences and future aspirations, my goal
 # Conclusion:
 
 The journey from Bihar to Paharganj, from Economics to Data Science, reflects a commitment to growth, learning, and adaptation. As I navigate this exciting odyssey, I am poised at the intersection of tradition and innovation, ready to contribute to the ever-expanding universe of data science. The chapters are yet to be written, and I am enthusiastic about the discoveries that await me on this transformative expedition.
+# Social Links
 
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-blue)](http://www.atmoin.com/mj)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20%40manoharjha007-orange)](https://www.instagram.com/manoharjha007/)
